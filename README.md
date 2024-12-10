@@ -56,12 +56,15 @@ Dataset yang digunakan adalah [Liver Disease: 1700 Records](https://www.kaggle.c
 
 - Pie chart : memperlihatkan sebaran data dari fitur diagnosis
 
+![image](https://github.com/user-attachments/assets/4e8bd838-d22c-4e4b-9c7c-cf42333fbe96)
 
   - Insight
 
     - Sebaran data dalam fitur diagnosis tidak merata
     - No : 44.9%, Yes : 55.1%
 - Matrix Correlation : memperlihatkan korelasi antar fiturnya
+
+![image](https://github.com/user-attachments/assets/44da85c1-86ca-436f-83b8-1be1b9fc45df)
 
 
   - Insight :
