@@ -209,23 +209,23 @@ maka didapat tiap modelnya sebagai berikut :
 
 1. SVM
 
-   Accuracy:  0.8188235294117647
-   Precision:  0.8277310924369747
+   Accuracy:  0.8188235294117647,
+   Precision:  0.8277310924369747,
    Recall:  0.8454935622317596
 2. Logistic Regression
 
-   Accuracy:  0.8188235294117647
-   Precision:  0.825
+   Accuracy:  0.8188235294117647,
+   Precision:  0.825,
    Recall:  0.8497854077253219
 3. Random Forest
 
-   Accuracy:  0.88
-   Precision:  0.8760330578512396
+   Accuracy:  0.88,
+   Precision:  0.8760330578512396,
    Recall:  0.9098712446351931
 4. K-Nearest Neighbors
 
-   Accuracy:  0.7905882352941176
-   Precision:  0.8103448275862069
+   Accuracy:  0.7905882352941176,
+   Precision:  0.8103448275862069,
    Recall:  0.8068669527896996
 
 Dalam kasus ini, dapat disimpulkan bawha :
